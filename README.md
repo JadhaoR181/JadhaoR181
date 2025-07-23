@@ -70,7 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JadhaoR181&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JadhaoR181&theme=dark&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhaoR181&layout=compact&theme=dark" height="150" />
 </p>
 
