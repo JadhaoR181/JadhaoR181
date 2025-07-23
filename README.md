@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/JadhaoR181/WYD-WearYourDesignMain">
         <img src="https://github.com/JadhaoR181/WYD-WearYourDesignMain/raw/main/public/preview.png" width="100%" />
         <br />
@@ -28,7 +28,7 @@
       </a>
       <br />MERN stack-based custom t-shirt e-commerce platform.
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/JadhaoR181/Majha-Shetkari">
         <img src="https://github.com/JadhaoR181/Majha-Shetkari/raw/main/assets/screenshots/app-splash.png" width="100%" />
         <br />
@@ -78,6 +78,6 @@
 ### 📫 Connect with Me
 
 - 💼 LinkedIn: [www.linkedin.com/in/ravindrajadhav08/](https://www.linkedin.com/in/ravindrajadhav08/)
-- 📧 Email: [ravindrajadhav1809@gmail.com](mailto:jadhaor181@gmail.com)
+- 📧 Email: [jadhaor181@gmail.com](mailto:jadhaor181@gmail.com)
 - 🌐 Portfolio: [https://jadhaor181.github.io](https://jadhaor181.github.io)
 - 🗣️ I'm open to freelance projects, collaborations, and internships!
