@@ -79,5 +79,5 @@
 
 - 💼 LinkedIn: [www.linkedin.com/in/ravindrajadhav08/](https://www.linkedin.com/in/ravindrajadhav08/)
 - 📧 Email: [jadhaor181@gmail.com](mailto:jadhaor181@gmail.com)
-- 🌐 Portfolio: [https://jadhaor181.github.io](https://jadhaor181.github.io)
+- 🌐 Portfolio: [https://ravindra-portfolio-vite.vercel.app/](https://ravindra-portfolio-vite.vercel.app/)
 - 🗣️ I'm open to freelance projects, collaborations, and internships!
