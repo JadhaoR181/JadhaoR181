@@ -1,69 +1,84 @@
-<h1 align="center">Hi there 👋, I'm Ravindra Jadhav</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99132893/276313387-90cbce77-c49a-4fd0-940b-8099eb5e8bc2.png" alt="Banner" width="100%" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Ravindra Jadhav</h1>
 <p align="center">
   💻 Full Stack Developer | 🛠 MERN Stack Enthusiast | 📱 Android Developer  
 </p>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JadhaoR181&label=Profile%20views&color=0e75b6&style=flat" alt="JadhaoR181" />
+</p>
 
-### 👨‍💻 About Me
-
-- 🔭 Currently building **WYD – WearYourDesign**, a full-stack custom T-shirt e-commerce platform.
-- 🌱 Actively learning **Flutter** and exploring **DevOps** tools.
-- 🎓 Final year B.E. IT student passionate about scalable and user-centric applications.
-- ⚡ Love creating websites & mobile apps that solve real-world problems.
-- 🌐 Check out my projects on [GitHub](https://github.com/JadhaoR181)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-`C++` `Java` `JavaScript` `TypeScript` `Python`
-
-**Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` `Vite` `HTML/CSS`
-
-**Backend:**  
-`Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs`
-
-**Mobile:**  
-`Android (Java)` `Flutter (Learning)` `Firebase`
-
-**Tools:**  
-`Git & GitHub` `Postman` `Stripe API` `Cloudinary` `VSCode`
+- 🔭 I’m currently building **WYD – WearYourDesign**, a full-stack custom t-shirt e-commerce platform using MERN stack.
+- 🌱 Currently learning **Flutter**, exploring **DevOps** and cloud services.
+- 💬 Ask me about **React, Node.js, MongoDB, Android, Java**
+- 📫 Reach me at **jadhaor181@gmail.com**
+- ⚡ I love solving real-world problems with impactful UIs and clean code.
 
 ---
 
 ### 📌 Pinned Projects
 
-Here are a few of my favorite and most active repositories:
-
-- 🔗 [WYD – WearYourDesign](https://github.com/JadhaoR181/WYD-WearYourDesignMain): Full-stack custom T-shirt e-commerce platform  
-- 🔗 [Majha Shetkari](https://github.com/JadhaoR181/Majha-Shetkari): Android app for Indian farmers to buy/sell tools, track crop prices, and stay informed  
-- 🔗 [E-comm Admin Panel](https://github.com/JadhaoR181/Ecomm-Admin-Panel): A modern React + Node.js based admin dashboard for product and user management
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/JadhaoR181/WYD-WearYourDesignMain">
+        <img src="https://github.com/JadhaoR181/WYD-WearYourDesignMain/raw/main/public/preview.png" width="100%" />
+        <br />
+        <strong>WYD – WearYourDesign</strong>
+      </a>
+      <br />MERN stack-based custom t-shirt e-commerce platform.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/JadhaoR181/Majha-Shetkari">
+        <img src="https://github.com/JadhaoR181/Majha-Shetkari/raw/main/assets/screenshots/app-splash.png" width="100%" />
+        <br />
+        <strong>Majha Shetkari</strong>
+      </a>
+      <br />Android app for farmers with pricing and tools.
+    </td>
+<!--     <td align="center" width="33%">
+      <a href="https://github.com/JadhaoR181/Ecomm-Admin-Panel">
+        <img src="https://github.com/JadhaoR181/Ecomm-Admin-Panel/raw/main/public/admin-preview.png" width="100%" />
+        <br />
+        <strong>Admin Panel</strong>
+      </a>
+      <br />React + Node.js Admin Dashboard with CRUD and charts.
+    </td> -->
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats & Badges
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JadhaoR181&label=Profile%20views&color=0e75b6&style=flat" alt="view badge" />
-  <img src="https://img.shields.io/github/followers/JadhaoR181?label=Followers&style=social" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JadhaoR181&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JadhaoR181&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhaoR181&layout=compact&theme=dark" height="150" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ravindra-jadhav-9116b323a/)
-- 📫 Email: **ravindrajadhav1809@gmail.com**
+- 💼 LinkedIn: [www.linkedin.com/in/ravindrajadhav08/](https://www.linkedin.com/in/ravindrajadhav08/)
+- 📧 Email: [ravindrajadhav1809@gmail.com](mailto:jadhaor181@gmail.com)
+- 🌐 Portfolio: [https://jadhaor181.github.io](https://jadhaor181.github.io)
+- 🗣️ I'm open to freelance projects, collaborations, and internships!
