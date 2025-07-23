@@ -1,5 +1,9 @@
-
 <h1 align="center">Hi there 👋, I'm Ravindra Jadhav</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99132893/276313387-90cbce77-c49a-4fd0-940b-8099eb5e8bc2.png" alt="Banner" width="100%" />
+</p>
+
 <p align="center">
   💻 Full Stack Developer | 🛠 MERN Stack Enthusiast | 📱 Android Developer  
 </p>
@@ -35,7 +39,22 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📌 Pinned Projects
+
+Here are a few of my favorite and most active repositories:
+
+- 🔗 [WYD – WearYourDesign](https://github.com/JadhaoR181/WYD-WearYourDesignMain): Full-stack custom T-shirt e-commerce platform  
+- 🔗 [Majha Shetkari](https://github.com/JadhaoR181/Majha-Shetkari): Android app for Indian farmers to buy/sell tools, track crop prices, and stay informed  
+- 🔗 [E-comm Admin Panel](https://github.com/JadhaoR181/Ecomm-Admin-Panel): A modern React + Node.js based admin dashboard for product and user management
+
+---
+
+### 📈 GitHub Stats & Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JadhaoR181&label=Profile%20views&color=0e75b6&style=flat" alt="view badge" />
+  <img src="https://img.shields.io/github/followers/JadhaoR181?label=Followers&style=social" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JadhaoR181&show_icons=true&theme=github_dark" height="150" />
@@ -48,6 +67,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravindra-jadhav-9116b323a/)
 - 📫 Email: **ravindrajadhav1809@gmail.com**
-- 🌐 Portfolio: https://jadhaor181.github.io/Portfolio/
-
----
