@@ -70,8 +70,7 @@
 ### 📊 GitHub Stats
 
 [![Ravindra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JadhaoR181\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-  <img src="https://github-readme-stats.vercel.app/api?username=JadhaoR181&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhaoR181&layout=compact&theme=dark" height="150" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadhaoR181&layout=compact)
 
 ---
 
