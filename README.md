@@ -70,7 +70,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  [![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadhaoR181)](https://github.com/anuraghazra/github-readme-stats)
+  ![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadhaoR181&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api?username=JadhaoR181&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhaoR181&layout=compact&theme=dark" height="150" />
 </p>
