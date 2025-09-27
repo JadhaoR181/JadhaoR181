@@ -27,7 +27,7 @@
     <tr>
       <td width="33%" align="center">
         <a href="https://github.com/JadhaoR181/WYD-WearYourDesignMain">
-          <img src="https://github.com/JadhaoR181/WYD-WearYourDesignMain/raw/main/public/preview.png" width="100%" />
+          <img src="https://github.com/JadhaoR181/WYD-WearYourDesignMain/blob/master/client/public/wearyourdesign-preview.png" width="100%" />
           <br /><b>WYD – WearYourDesign</b>
         </a>
         <p>MERN stack custom t-shirt e-commerce platform</p>
