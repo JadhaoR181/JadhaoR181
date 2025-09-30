@@ -34,7 +34,7 @@
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/JadhaoR181/ReadoAI-Readme_Generator">
-          <img src="https://github.com/JadhaoR181/WYD-WearYourDesignMain/raw/main/public/preview.png" width="100%" />
+          <img src="https://github.com/JadhaoR181/ReadoAI-Readme_Generator/blob/master/client/public/reado_ai_preview.png" width="100%" />
           <br /><b>Reado AI </b>
         </a>
         <p>AI powered professional readme generator</p>
